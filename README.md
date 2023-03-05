@@ -25,8 +25,6 @@ This is an e-commerce backend application that utilizes Express.js and Sequelize
 - Run npm run seed to seed the database with test data.
 - Run npm start to start the application.
 
-## Tests
-
 ## Usage
 
 - Run npm install to install all required dependencies.
