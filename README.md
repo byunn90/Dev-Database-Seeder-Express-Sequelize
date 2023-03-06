@@ -50,7 +50,7 @@ This is an e-commerce backend application that utilizes Express.js and Sequelize
 
 ## Video
 
-https://www.youtube.com/watch?v=y82FzGjlwHw
+https://www.youtube.com/watch?v=cplIqR-pgxs
 
 ## Contact-details
 
