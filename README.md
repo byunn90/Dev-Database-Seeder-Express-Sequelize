@@ -10,6 +10,7 @@ This is an e-commerce backend application that utilizes Express.js and Sequelize
 
 ## Technologies Used:
 
+- JavaScript
 - dotenv
 - express
 - mysql2
